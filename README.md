@@ -38,3 +38,5 @@ ie: `npm run test:watch example`
 ## Watch All tests
 
 `npm run test:watch-all`
+
+## Test
